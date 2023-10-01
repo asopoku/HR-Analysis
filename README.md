@@ -1,8 +1,12 @@
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools Used](tools-used)
-- [Data Preparation](data-preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](results-and-findings)
+- [Dashboard](#dashboard)
+- [Recommendations](recommendations)
 
 # Project Overview
 This analysis aims at providing insight into the Attrition Rate of a hypothetical data by analyzing various aspect to identify trends and make data driven decisions and get deep understanding of worker leaving the organization tends to be.
