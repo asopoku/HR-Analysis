@@ -40,11 +40,11 @@ The data was further explored to find the following KPIs;
 - Attrition by Educational Field 
 - Attrition by Gender for different Age Groups
 - Attrition by Distance to work
--Attrition by Performance
--Attrition by Level of Education
--Attrition by Marital Status
--Attrition by Business Travel
--Attrition by whether an employee work overtime or not
+- Attrition by Performance
+- Attrition by Level of Education
+- Attrition by Marital Status
+- Attrition by Business Travel
+- Attrition by whether an employee work overtime or not
 
 ## Data Analysis
 - To find the number of employees who have left the organization, responses Yes and No were changed to 1 and 0 respectively, and were then counted.
