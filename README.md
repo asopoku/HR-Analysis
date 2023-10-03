@@ -39,6 +39,12 @@ The data was further explored to find the following KPIs;
 - Job Satisfaction Ratings
 - Attrition by Educational Field 
 - Attrition by Gender for different Age Groups
+- Attrition by Distance to work
+-Attrition by Performance
+-Attrition by Level of Education
+-Attrition by Marital Status
+-Attrition by Business Travel
+-Attrition by whether an employee work overtime or not
 
 ## Data Analysis
 - To find the number of employees who have left the organization, responses Yes and No were changed to 1 and 0 respectively, and were then counted.
@@ -57,7 +63,17 @@ The data was further explored to find the following KPIs;
 - Sales Representatives are those who are more satisfied with their Job.
 
 ## Dashboard
-![Dashboard PBI](https://github.com/asopoku/HR-Analysis/assets/72577156/feff4a76-16ee-4542-90a2-d3645d8ea45b)
+
+![Home](https://github.com/asopoku/HR-Analysis/assets/72577156/6f613876-77f7-4142-b769-874c193a0f43)
+![More](https://github.com/asopoku/HR-Analysis/assets/72577156/d4c4a26b-6bdb-4e45-a6e7-2f4cb2f9a408)
+
 
 ## Recommendations
+- Since most the employees (200) leaving the job are those with low performance, the organization should organize training and development programs to help employees to acquire new skill and advance their career in the organization.
+- Management must assess the physical and social aspects of the workplace to ensure it is comfortable, safe and pleasant environment to work in since most people leaving the organization are those who leave near-by the work place.
+- It was reviled that most employees leaving the organization were those who were single. Therefore management should consider financial education programs to help single employees manage their finances effectively, as they may have different financial priorities than those with families.
+- Also, management must clearly communicate the expectations regarding business travel for each role within the organization. This is because most employees leaving the organization are those who rarely embark on business travel who may not be aware travel requirements.
+- Conduct exit interview to gather insight into the specific reasons on why employees who leave or want to leave the organization and use the feedback to make targeted improvement 
+
+
 
